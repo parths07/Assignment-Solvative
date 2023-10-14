@@ -2,8 +2,12 @@
 
 
 
-To run this project 
-First step : npm i
-Second step : npm run start
+To run this project
 
-Then we can test APIs in postman
+
+# First step : npm i
+
+
+# Second step : npm run start
+
+# Then we can test APIs in postman
